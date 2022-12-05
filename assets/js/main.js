@@ -2,9 +2,9 @@ jQuery(document).ready(function ($) {
   "use strict";
 
   // Preloader
-  $(window).on("load", function () {
-    $("#preloder").delay(2000).fadeOut(500);
-  });
+  //$(window).on("load", function () {
+  //  $("#preloder").delay(2000).fadeOut(500);
+  //});
 
   // Mobile Menu
   $(".hamburger").click(function () {
